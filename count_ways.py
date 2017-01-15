@@ -112,5 +112,7 @@ if __name__ == '__main__':
 
     test_count_ways()
     array = clean_input_array()
-    count_ways()
+    count_ways(array)
+    raw_input("Press <ENTER> to exit.")
+
 
